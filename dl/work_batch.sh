@@ -1,0 +1,1 @@
+python train_initiator.py --gpus 8 --name v1 --num_workers 16 --batch_size 16 --learning_rate 0.01
